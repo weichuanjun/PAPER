@@ -1,0 +1,247 @@
+stocks:
+  - code: 1332.T
+    name: 日本水産
+    sector: 水産
+  - code: 1605.T
+    name: INPEX
+    sector: 鉱業
+  - code: 1721.T
+    name: コムシスホールディングス
+    sector: 建設
+  - code: 1801.T
+    name: 大成建設
+    sector: 建設
+  - code: 1802.T
+    name: 大林組
+    sector: 建設
+  - code: 1803.T
+    name: 清水建設
+    sector: 建設
+  - code: 1808.T
+    name: 長谷工コーポレーション
+    sector: 建設
+  - code: 1812.T
+    name: 鹿島建設
+    sector: 建設
+  - code: 1925.T
+    name: 大和ハウス工業
+    sector: 建設
+  - code: 1928.T
+    name: 積水ハウス
+    sector: 建設
+  - code: 1963.T
+    name: 日揮ホールディングス
+    sector: 建設
+  - code: 2002.T
+    name: 日清製粉グループ本社
+    sector: 食品
+  - code: 2269.T
+    name: 明治ホールディングス
+    sector: 食品
+  - code: 2282.T
+    name: 日本ハム
+    sector: 食品
+  - code: 2413.T
+    name: エムスリー
+    sector: サービス
+  - code: 2432.T
+    name: ディー・エヌ・エー
+    sector: サービス
+  - code: 2501.T
+    name: サッポロホールディングス
+    sector: 食品
+  - code: 2502.T
+    name: アサヒグループホールディングス
+    sector: 食品
+  - code: 2503.T
+    name: キリンホールディングス
+    sector: 食品
+  - code: 2531.T
+    name: 宝ホールディングス
+    sector: 食品
+  - code: 2768.T
+    name: 双日
+    sector: 商社
+  - code: 2801.T
+    name: キッコーマン
+    sector: 食品
+  - code: 2802.T
+    name: 味の素
+    sector: 食品
+  - code: 2871.T
+    name: ニチレイ
+    sector: 食品
+  - code: 2914.T
+    name: 日本たばこ産業
+    sector: 食品
+  - code: 3086.T
+    name: J．フロント　リテイリング
+    sector: 小売業
+  - code: 3099.T
+    name: 三越伊勢丹ホールディングス
+    sector: 小売業
+  - code: 3289.T
+    name: 東急不動産ホールディングス
+    sector: 不動産
+  - code: 3382.T
+    name: セブン＆アイ・ホールディングス
+    sector: 小売業
+  - code: 3401.T
+    name: 帝人
+    sector: 繊維
+  - code: 3402.T
+    name: 東レ
+    sector: 繊維
+  - code: 3405.T
+    name: クラレ
+    sector: 化学
+  - code: 3407.T
+    name: 旭化成
+    sector: 化学
+  - code: 3436.T
+    name: SUMCO
+    sector: 非鉄・金属
+  - code: 3659.T
+    name: ネクソン
+    sector: サービス
+  - code: 3861.T
+    name: 王子ホールディングス
+    sector: パルプ・紙
+  - code: 3863.T
+    name: 日本製紙
+    sector: パルプ・紙
+  - code: 4004.T
+    name: 昭和電工
+    sector: 化学
+  - code: 4005.T
+    name: 住友化学
+    sector: 化学
+  - code: 4021.T
+    name: 日産化学
+    sector: 化学
+  - code: 4042.T
+    name: 東ソー
+    sector: 化学
+  - code: 4043.T
+    name: トクヤマ
+    sector: 化学
+  - code: 4061.T
+    name: デンカ
+    sector: 化学
+  - code: 4063.T
+    name: 信越化学工業
+    sector: 化学
+  - code: 4151.T
+    name: 協和キリン
+    sector: 医薬品
+  - code: 4183.T
+    name: 三井化学
+    sector: 化学
+  - code: 4188.T
+    name: 三菱ケミカルグループ
+    sector: 化学
+  - code: 4208.T
+    name: UBE
+    sector: 化学
+  - code: 4324.T
+    name: 電通グループ
+    sector: サービス
+  - code: 4385.T
+    name: メルカリ
+    sector: サービス
+  - code: 4452.T
+    name: 花王
+    sector: 化学
+  - code: 4502.T
+    name: 武田薬品工業
+    sector: 医薬品
+  - code: 4503.T
+    name: アステラス製薬
+    sector: 医薬品
+  - code: 4506.T
+    name: 住友ファーマ
+    sector: 医薬品
+  - code: 4507.T
+    name: 塩野義製薬
+    sector: 医薬品
+  - code: 4519.T
+    name: 中外製薬
+    sector: 医薬品
+  - code: 4523.T
+    name: エーザイ
+    sector: 医薬品
+  - code: 4543.T
+    name: テルモ
+    sector: 精密機器
+  - code: 4568.T
+    name: 第一三共
+    sector: 医薬品
+  - code: 4578.T
+    name: 大塚ホールディングス
+    sector: 医薬品
+  - code: 4631.T
+    name: DIC
+    sector: 化学
+  - code: 4661.T
+    name: オリエンタルランド
+    sector: サービス
+  - code: 4689.T
+    name: Zホールディングス
+    sector: サービス
+  - code: 4704.T
+    name: トレンドマイクロ
+    sector: サービス
+  - code: 4751.T
+    name: サイバーエージェント
+    sector: サービス
+  - code: 4755.T
+    name: 楽天グループ
+    sector: サービス
+  - code: 4901.T
+    name: 富士フイルムホールディングス
+    sector: 化学
+  - code: 4902.T
+    name: コニカミノルタ
+    sector: 精密機器
+  - code: 4911.T
+    name: 資生堂
+    sector: 化学
+  - code: 5019.T
+    name: 出光興産
+    sector: 石油
+  - code: 5020.T
+    name: ENEOSホールディングス
+    sector: 石油
+  - code: 5101.T
+    name: 横浜ゴム
+    sector: ゴム
+  - code: 5108.T
+    name: ブリヂストン
+    sector: ゴム
+  - code: 5201.T
+    name: AGC
+    sector: 窯業
+  - code: 5214.T
+    name: 日本電気硝子
+    sector: 窯業
+  - code: 5232.T
+    name: 住友大阪セメント
+    sector: 窯業
+  - code: 5233.T
+    name: 太平洋セメント
+    sector: 窯業
+  - code: 5301.T
+    name: 東海カーボン
+    sector: 窯業
+  - code: 5332.T
+    name: TOTO
+    sector: 窯業
+  - code: 5333.T
+    name: 日本碍子
+    sector: 窯業
+  - code: 5401.T
+    name: 日本製鉄
+    sector: 鉄鋼
+  - code: 5406.T
+    name: 神戸製鋼
+    
